@@ -116,7 +116,7 @@ header('location:manage-books.php');
                                             <th>Category</th>
                                             <th>Author</th>
                                             <th>ISBN</th>
-                                            <th>Price</th>
+                                            <th>Quantity</th>
                                             <th>Action</th>
                                         </tr>
                                     </thead>
